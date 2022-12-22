@@ -1,6 +1,6 @@
 # ziro_music_app
 
-A new Flutter project.
+
 
 ## Getting Started
 
